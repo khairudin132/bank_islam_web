@@ -1,5 +1,5 @@
 //Alternative to the pages_list.dart
-
+//This code is not used at all
 import 'package:bank_islam_web/screen/page1.dart';
 import 'package:bank_islam_web/screen/page2.dart';
 import 'package:flutter/material.dart';

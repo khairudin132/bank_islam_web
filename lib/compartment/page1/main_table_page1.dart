@@ -8,6 +8,11 @@ import 'package:bank_islam_web/widget/checkbox_title.dart';
 import 'package:bank_islam_web/widget/language_pair.dart';
 import 'package:flutter/material.dart';
 
+import 'full_name_page1.dart';
+import 'gelaran_title.dart';
+import 'guardian_ic.dart';
+import 'guardian_non_citizen_id.dart';
+
 class BuildTablePage1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
